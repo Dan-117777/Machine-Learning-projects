@@ -1,0 +1,10 @@
+# OTTO dataset
+OTTO-Recommender-System/data/.DS_Store
+**/.DS_Store
+tempCodeRunnerFile*
+**/tempCodeRunnerFile*
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+__pycache__/
+**/__pycache__/
+*.pyc
