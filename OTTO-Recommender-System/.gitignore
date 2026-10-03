@@ -23,3 +23,6 @@ env/
 
 # Temporary files
 tempCodeRunnerFile*
+artifacts/
+catboost_info/
+Untitled.ipynb
